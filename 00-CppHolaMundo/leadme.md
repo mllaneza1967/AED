@@ -1,6 +1,0 @@
-- Algoritmos y Estructuras de Datos
-- curso k1253
-- 2022
-- legajo: 2037786
-- LLANEZA
--  Trabajo #00
