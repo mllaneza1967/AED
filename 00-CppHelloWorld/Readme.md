@@ -1,0 +1,6 @@
+- Algoritmos y Estructuras de Datos
+- curso k1253
+- 2022
+- legajo: 2037786
+- LLANEZA
+- Hola mi nombre es Miguel Angel
