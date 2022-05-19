@@ -2,5 +2,5 @@
 - curso k1253
 - 2022
 - legajo: 2037786
-- trabajo #01 - 
+- trabajo #00 - HelloWorld
 - LLANEZA MIGUEL
