@@ -1,2 +1,5 @@
-# #01 - tipos de datos
- Prueba de tipos de datos
+- #01 - Tipos de datos
+- Curso k1253
+- año 2022
+- Legajo 203778/6
+-  LLaneza Miguel Angel
